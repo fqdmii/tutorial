@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 sample.txt
 サルでもわかるGitコマンド
 add 変更をインデックスに記録する
 commit コマンドの説明の追加
+=======
+﻿sample.txt
+サルでもわかるGitコマンド
+add 変更をindexに保存する
+pullコマンドの説明追加
+>>>>>>> eba584c216e27b3c79c5cb55d3c80f60d247e40e
