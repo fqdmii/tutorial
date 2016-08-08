@@ -1,3 +1,4 @@
 ﻿sample.txt
 サルでもわかるGitコマンド
 add 変更をindexに保存する
+pullコマンドの説明追加
